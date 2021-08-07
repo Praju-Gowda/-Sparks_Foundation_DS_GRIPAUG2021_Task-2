@@ -1,4 +1,6 @@
-# -Sparks_Foundation_DS_GRIPAUG2021_Task-2
+#Sparks_Foundation_DS_GRIPAUG2021_Task-2
+
+#Task-2:Prediction using unsupervised ML
 
 #Data Science
 
@@ -8,9 +10,9 @@
 
 #Sample solution: https://drive.google.com/file/d/1Yjz8dzSbpAPwJdcVb20eFWniIDbs6ZH7/view
 
-#youtube link:
+#youtube link:https://youtu.be/x8nl4fZIiYM
 
-#linkdin post link:
+#linkdin post link:https://www.linkedin.com/posts/prajwal-m-s-449114185_task2-gripaug21-august2021-activity-6829709845621559296-j0Zq
 
 #snapshot:
 
